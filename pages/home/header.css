@@ -1,0 +1,13 @@
+.headerSite {
+    margin-top: 77px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.dark-mode {
+    width: 36px;
+    height: 36px;
+    border: none;
+    border-radius: 5px;
+}
